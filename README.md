@@ -1,5 +1,8 @@
 # Arduino_Projects-2024
 
+![image](https://github.com/user-attachments/assets/af0cb94b-6846-4c5a-97d0-5b52e20f032d)
+
+
 ## 📜 About the repository
 The repository includes some of my arduino projects (AVR and Esp32).
 
